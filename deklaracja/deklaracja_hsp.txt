@@ -1,0 +1,79 @@
+_  _ ____ ____ _  _ ____ ____ ____ ___  ____ ____ ____                             
+|__| |__| |    |_/  |___ |__/ [__  |__] |__| |    |___                               Stowarzyszenie Hackerspace Pomorze
+|  | |  | |___ | \_ |___ |  \ ___] |    |  | |___ |___                                           ul. Do Studzienki 28/6
+ _____   _____  _______  _____   ______ ______ _______                                            80-227 Gdańsk, Polska
+|_____] |     | |  |  | |     | |_____/  ____/ |______                                                      9F6W9JC6+FG
+|       |_____| |  |  | |_____| |    \_ /_____ |______   
+
+
+DEKLARACJA CZŁONKOWSKA                                                                        https://hsp.sh/membership
+MEMBERSHIP DECLARATION                                                                                 +48 58 717 45 45
+
+
++--------------------------+---------------------------------------------------------------CAPITAL-LETTERS-PLEASE-----+
+|          Imię i Nazwisko |                                                                                          |
+|                Full name |                                                                                          |
++--------------------------+------------------------------------------------------------------------------------------+
+| Data i miejsce urodzenia |                                                                                          |
+|  Date and place of birth |                                                                                          |
++--------------------------+------------------------------------------------------------------------------------------+
+|        Preferowany login |                                                                                          |
+|            UNIX username |                                                                                          |
++----------+---------------+--------------------------------+----------------+----------------------------------------+
+|    Email |                                                | Numer telefonu |                                        |
+|          |                                                | E.164 Phone N° |                                        |
++----------+------------------------------------------------+----------------+----------------------------------------+
+
+
+Proszę o przyjęcie mnie w poczet członków zwyczajnych Stowarzyszenia Hackerspace Pomorze. 
+Oświadczam, że zapoznałem się ze statutem oraz regulaminem stowarzyszenia i zobowiązuje się do przestrzegania 
+ich postanowień, a w szczególności do:
+        1. utrzymywania porządku w przestrzeniach należących do stowarzyszenia
+        2. regularnego opłacania składek członkowskich
+        3. aktywnego uczestnictwa w działalności stowarzyszenia
+
+
+Data i podpis osoby ubiegającej się o przyjęcie:                              .........................................
+
+-----------------------------------------------------------------------------------------------------------------------
+
+
+## Zgoda na przetwarzanie danych osobowych
+
+Wyrażam zgodę na przechowywanie i przetwarzanie moich danych przez Stowarzyszenie Hackerspace Pomorze 
+w celach związanych z działalnością statutową stowarzyszenia oraz celem stworzenia kont 
+w systemach cyfrowych przynależących do stowarzyszenia i koniecznych do aktywnego uczestnictwa w działalności
+stowarzyszenia, w szczególności do: listy mailingowej, komunikatora internetowego, systemu kontroli dostępu itp.
+
+
+
+Data i podpis osoby ubiegającej się przyjęcie:                                .........................................
+
+-----------------------------------------------------------------------------------------------------------------------
+
+## Rekomendacje 3 członków Stowarzyszenia Hackerspace Pomorze
+
+My, niżej podpisani członkowie stowarzyszenia, rekomendujemy                  ......................................... 
+na nowego członka stowarzyszenia Hackerspace Pomorze:
+
+    +=====================================================+================================+==========================+
+    | Imię i nazwisko                                     | podpis                         | miejsce i data           |
++===+=====================================================+================================+==========================+
+|   |                                                     |                                |                          |
+| 1 |                                                     |                                |                          |
++---+-----------------------------------------------------+--------------------------------+--------------------------+
+|   |                                                     |                                |                          |
+| 2 |                                                     |                                |                          |
++---+-----------------------------------------------------+--------------------------------+--------------------------+
+|   |                                                     |                                |                          |
+| 3 |                                                     |                                |                          |
++---+-----------------------------------------------------+--------------------------------+--------------------------+
+
+## Uchwała Zarządu
+
+
+Przy braku sprzeciwu ze strony członków stowarzyszenia, uchwałą Zarządu Stowarzyszenia z dnia .........................
+przyjmujemy ......................................... w poczet członków zwyczajnych Stowarzyszenia Hackerspace Pomorze.
+Podpisy dwóch członków zarządu:
+
+..................................................                   ..................................................
