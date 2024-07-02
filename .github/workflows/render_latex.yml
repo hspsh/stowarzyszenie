@@ -15,3 +15,8 @@ jobs:
         with:
           name: PDF
           path: Statut_HSP.pdf
+      - name: Upload PDF file to Release
+        uses: softprops/action-gh-release@v2
+        if: startsWith(github.ref, 'refs/tags/')
+        with:
+          files: Statut_HSP.pdf

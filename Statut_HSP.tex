@@ -1,5 +1,3 @@
-% https://samrobbins.uk/blog/my-latex-boilerplate
-
 \documentclass{article}
 
 \title{Statut Stowarzyszenia Hackerspace Pomorze}
@@ -11,16 +9,14 @@
 \usepackage[polish]{babel}
 \usepackage[margin=1in]{geometry}
 \usepackage{needspace}
-\usepackage[center]{titlesec}
+\usepackage[{center,nobottomtitles*}]{titlesec}
 \usepackage{hyperref}
 
-\begin{document}
-
-\setlength\parindent{0pt}
 \renewcommand{\baselinestretch}{0} 
-
 \renewcommand\thesection{Rozdział \Roman{section}.}
-\newcommand{\myparagraph}[1]{\needspace{16ex}\subsection*{#1}}
+\newcommand{\myparagraph}[1]{\subsubsection*{#1}}
+
+\begin{document}
 
 \maketitle
 
@@ -412,9 +408,7 @@ Do składania oświadczeń woli w imieniu Stowarzyszenia, w tym w sprawach mają
 
 \section{Postanowienia końcowe}
 \myparagraph{§ 29}
-\begin{enumerate}
-\item
-  W przypadku podjęcia uchwały o rozwiązaniu Stowarzyszenia Walne Zebranie Członków określa sposób jego likwidacji oraz przeznaczenie majątku Stowarzyszenia.
-\end{enumerate}
+W przypadku podjęcia uchwały o rozwiązaniu Stowarzyszenia Walne Zebranie Członków określa sposób jego likwidacji oraz przeznaczenie majątku Stowarzyszenia.
+
 
 \end{document}
